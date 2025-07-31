@@ -1,5 +1,5 @@
-Olá, esse é meu primeiro teste upando arquivo no GitHub sem auxilio de videos. Somente com os comandos.
+1- Olá, esse é meu primeiro teste upando arquivo no GitHub sem auxilio de videos. Somente com os comandos.
 
-Consegui, upei
+2- Consegui, upei
 
-git add . // git commit -m "nome da alteração" // git push origin main
+3- git add . // git commit -m "nome da alteração" // git push origin main
